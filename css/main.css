@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font: bold 100%/1.5 sans-serif;
+  font: normal 100%/1.5 sans-serif;
 }
 
 *, *::before, *::after {
